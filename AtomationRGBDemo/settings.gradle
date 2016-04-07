@@ -1,0 +1,2 @@
+include ':app'//, ':AtomationSDK'
+//project(':AtomationSDK').projectDir = new File(settingsDir, '../AtomationSDK/library')

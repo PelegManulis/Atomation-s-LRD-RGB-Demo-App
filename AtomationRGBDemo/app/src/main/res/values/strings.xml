@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Atom RGB</string>
+    <string name="action_settings">Settings</string>
+    <string name="scaning_in_porgress">Scanning...</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="connection_in_progress">Connecting...</string>
+    <string name="token">f9612a755162f759321ea3d9c9ba66fc</string>
+    <string name="precent_dbm">%d dBm</string>
+    <string name="device_disconnected">Device Disconnected</string>
+    <string name="precent_valt">%.02fv</string>
+    <string name="command_executed">Command Executed</string>
+    <string name="command_failed">Command Execution Failed</string>
+    <string name="atom_token">rgb_demo_token</string>
+
+</resources>
